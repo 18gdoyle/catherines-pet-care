@@ -1,6 +1,6 @@
 <template>
     <div class="aboutUsContainer">
-       This is where Mom will write something
+       A placeholder for about us information
     </div>
 </template>
 
@@ -21,6 +21,7 @@
 <style scoped lang="scss">
 
 .aboutUsContainer {
+    padding: 20px;
     text-align: center;
     margin:auto;
     margin-top: 15vh;
